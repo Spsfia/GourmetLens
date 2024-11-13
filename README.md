@@ -1,7 +1,15 @@
-# Project Title
+# Gourmet Lens
 
-Simple overview of use/purpose.
+A mutliplatform development application with a AR menu interaction.
 
+
+
+## Authors
+Adriana Sofía - Spafia
+Karime Hernandez - KarimeHdz
+Cristian Gaytan - CBGaytan
+
+```
 ## Description
 
 An in-depth paragraph about your project and overview of use.
@@ -10,8 +18,7 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+iOS or Android device.
 
 ### Installing
 
@@ -22,20 +29,18 @@ An in-depth paragraph about your project and overview of use.
 
 * How to run the program
 * Step-by-step bullets
-```
+
 code blocks for commands
-```
+
 
 ## Help
 
 Any advise for common problems or issues.
-```
+
 command to run if program contains helper info
-```
 
-## Authors
 
-Contributors names and contact info
+
 
 ex. Dominique Pizzie  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
@@ -60,3 +65,5 @@ Inspiration, code snippets, etc.
 * [dbader](https://github.com/dbader/readme-template)
 * [zenorocha](https://gist.github.com/zenorocha/4526327)
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+
+```
